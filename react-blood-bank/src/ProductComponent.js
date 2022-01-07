@@ -58,7 +58,6 @@ function ProductComponent(props){
                              <Button color="inherit" onClick={logout}>Logout</Button>
                              </Toolbar>
                          </AppBar>
-                             hellooo
                              <div style={{padding: '25px'}}>
                              <Grid container spacing={2}>
                                  {productList.map(row=> (
