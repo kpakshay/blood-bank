@@ -7,3 +7,5 @@ exports.connect=()=>{
     }
     
 }
+
+// mongodb+srv://Akshay:Akshay@cluster0.u7akf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
