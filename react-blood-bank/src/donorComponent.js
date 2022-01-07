@@ -43,7 +43,7 @@ class donorComponent extends React.Component {
             }
         }
         return (
-            <>hiii
+            <>
                 <div style={{ padding: '20px' }}>
                     <h3>Add blood donor details</h3>
                     <form onSubmit={(e) => handleSubmit(e)}>
